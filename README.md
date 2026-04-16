@@ -1,5 +1,7 @@
 Project in the context of Data Analysis self-learning (source: YouTube)
 
+<br>
+
 ## &#128295; Used tools
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Parallels](https://img.shields.io/badge/Parallels-E40046?style=for-the-badge&logo=parallels&logoColor=white)
