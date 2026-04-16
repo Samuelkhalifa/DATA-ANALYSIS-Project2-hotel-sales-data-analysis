@@ -7,11 +7,16 @@ Project in the context of Data Analysis self-learning (source: YouTube)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
 
+<br>
 
 ## [Subject : Analyse hotel sales over 3 ans]
 
+<br>
 
-### &#127919; Project's steps
+## &#127919; Project's steps
+
+<br>
+
 * Retrieve, prepare, and analyse data on (`Excel`).
 * Import cleaned dataset into (`MySQL`) running on virtual machine (`parallels`).
 * Write necessary SQL queries and connect results to a dashboarding tool (`Power Bi`).
