@@ -13,7 +13,18 @@ Project in the context of Data Analysis self-learning (source: YouTube)
 
 <br>
 
-## &#127919; Project's steps
+## &#x1F4DD; Project graph
+
+<br>
+
+<p align="center">
+  <img width="683" height="178" alt="Capture d’écran 2026-04-16 à 13 15 34" 
+  src="https://github.com/user-attachments/assets/b7af7dfb-c788-48a1-a782-884da865f2ba" />
+</p>
+
+<br>
+
+## &#127919; Project steps
 
 <br>
 
